@@ -1,2 +1,1 @@
-# numeros_romanos
-Conversión de números romanos a árabes y viceversa.
+Dos pequeñas aplicaciones en Python3 para pasar de números romanos a arábigos y viceversa. 
